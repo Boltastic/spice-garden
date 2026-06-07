@@ -1,0 +1,6 @@
+{
+  "name": "Spice Garden Family Restaurant",
+  "description": "Premium multi-cuisine restaurant website for Spice Garden, Hyderabad, featuring online pre-orders, table reservations, loyalty tracker, QR menu generator, and integrated admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
